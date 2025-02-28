@@ -60,11 +60,11 @@ Software Engineering Day1 Assignment
 
 ## 7. **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
 
-- **Managing changing requirements: Use Agile methodologies to adapt to evolving needs.
-- **Debugging and troubleshooting: Implement logging, debugging tools, and automated testing.
-- **Meeting deadlines: Break projects into smaller tasks using project management tools like Jira or Trello.
-- **Collaboration in remote teams: Utilize communication tools like Slack and Zoom with version control.
-- **Technical debt and outdated code: Regularly refactor and update software to maintain efficiency.
+- **Managing changing requirements:** Use Agile methodologies to adapt to evolving needs.
+- **Debugging and troubleshooting:** Implement logging, debugging tools, and automated testing.
+- **Meeting deadlines:** Break projects into smaller tasks using project management tools like Jira or Trello.
+- **Collaboration in remote teams:** Utilize communication tools like Slack and Zoom with version control.
+- **Technical debt and outdated code:** Regularly refactor and update software to maintain efficiency.
 
 ## 8. **Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
 1. **Unit Testing** – Tests individual components.  
