@@ -13,7 +13,7 @@ Software Engineering Day1 Assignment
 - Enables innovation and technological advancements.
 - Ensures software security and reliability.
 
-##2. **Identify and describe at least three key milestones in the evolution of software engineering.**
+## 2. **Identify and describe at least three key milestones in the evolution of software engineering.**
 1. **1968 - NATO Software Engineering Conference**  
    - Addressed the "software crisis" and recognized software engineering as a discipline.
 
@@ -23,7 +23,7 @@ Software Engineering Day1 Assignment
 3. **2001 - Agile Manifesto**  
    - Introduced Agile methodologies, emphasizing flexibility and collaboration.
 
-##3. **List and briefly explain the phases of the Software Development Life Cycle.**
+## 3. **List and briefly explain the phases of the Software Development Life Cycle.**
 1. **Planning** – Define project goals and feasibility.
 2. **Requirements Analysis** – Gather and document system requirements.
 3. **Design** – Create system architecture and user interfaces.
@@ -32,7 +32,7 @@ Software Engineering Day1 Assignment
 6. **Deployment** – Release software to users.
 7. **Maintenance** – Provide updates and improvements.
 
-##4. **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
+## 4. **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
 - waterfall model is linear and sequential while agile methodlogy is iterative and incremental
 - waterfall model is rigid and changes are difficult while agile is highly flexible and adaptable.
 - in waterfall model, feedback comes at the end while in agile methodology, feedback is continuous from stakeholders.
@@ -40,12 +40,12 @@ Software Engineering Day1 Assignment
 - an example of waterfall model is a large-scale banking system where strict regulatory requirements demand extensive documentation and minimal changes.
 - an example of agile methodology is a startup developing a mobile app where user feedback is frequently incorporated.
 
-##5. **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
+## 5. **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
 - **Software Developer**: Writes, tests, and maintains code. Collaborates with other developers and stakeholders to implement software features.
 - **Quality Assurance (QA) Engineer**: Ensures software meets quality standards through testing, debugging, and automation. Identifies and documents defects.
 - **Project Manager (PM)**: Oversees project timelines, resources, and team coordination. Ensures that deliverables meet business objectives and deadlines.
 
-##6. **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
+## 6. **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
 - **Integrated Development Environments (IDEs):**
 
 - Provide tools like code editors, debuggers, and compilers to streamline development.
@@ -58,7 +58,7 @@ Software Engineering Day1 Assignment
 - Prevents data loss and facilitates teamwork in distributed environments.
 - Examples: Git, GitHub, GitLab, Bitbucket.
 
-##7. **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
+## 7. **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
 
 - **Managing changing requirements: Use Agile methodologies to adapt to evolving needs.
 - **Debugging and troubleshooting: Implement logging, debugging tools, and automated testing.
@@ -66,7 +66,7 @@ Software Engineering Day1 Assignment
 - **Collaboration in remote teams: Utilize communication tools like Slack and Zoom with version control.
 - **Technical debt and outdated code: Regularly refactor and update software to maintain efficiency.
 
-##8. **Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
+## 8. **Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
 1. **Unit Testing** – Tests individual components.  
 2. **Integration Testing** – Checks interactions between modules.  
 3. **System Testing** – Tests the entire system.  
@@ -75,7 +75,7 @@ Software Engineering Day1 Assignment
 # **Part 2: Introduction to AI and Prompt Engineering**
 
 
-##1. **Define prompt engineering and discuss its importance in interacting with AI models.**
+## 1. **Define prompt engineering and discuss its importance in interacting with AI models.**
 
 **Prompt Engineering** is the practice of designing and optimizing inputs (prompts) to improve AI responses.
 
@@ -85,7 +85,7 @@ Software Engineering Day1 Assignment
 2. Enhances efficiency by reducing the need for multiple refinements.
 3. Allows customization of AI interactions for specific tasks, such as content generation or coding assistance.
 
-##2. **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
+## 2. **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 
 ### Vague Prompt:
 "Tell me about technology."
